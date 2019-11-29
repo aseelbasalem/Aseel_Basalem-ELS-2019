@@ -1,1 +1,1 @@
-This is second text file.
+Changes on the second file!
